@@ -1,4 +1,4 @@
-package com.u6amtech.djr_delivery_boy
+package com.djr.delivery_boy
 
 import io.flutter.embedding.android.FlutterActivity
 
